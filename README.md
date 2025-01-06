@@ -1,2 +1,1 @@
-# A-minecraft-server
-A minecraft server (maybe cuz im suck at this bro)
+guy i dont know how to change this file to private helpp
